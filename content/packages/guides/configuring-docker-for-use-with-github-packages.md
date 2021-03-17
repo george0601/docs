@@ -221,7 +221,7 @@ $ docker push docker.pkg.github.com/octocat/octo-app/monalisa:1.0
 $ docker build -t docker.<em>HOSTNAME</em>/octocat/octo-app/monalisa:1.0 .
 
 # Push the image to {% data variables.product.prodname_registry %}
-$ docker push docker.<em>HOSTNAME</em>/octocat/octo-app/monalisa:1.0
+$ docker push docker.<em>HOSTNAME/em>/octocat/octo-app/monalisa:1.0
 ```
 {% endif %}
 
